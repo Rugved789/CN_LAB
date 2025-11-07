@@ -1,8 +1,0 @@
-Exp. 01 
-Basic Commands of Computer Networking
-
-1]. ifconfig
-2]. ping Firefox.com
-3]. traceroute Firefox.com
-4]. ip route
-5]. nslookup Firefox.com
